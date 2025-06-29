@@ -1,0 +1,34 @@
+# Ignore Proteus simulation output files and backups
+*.bak
+*.tmp
+*.err
+*.log
+*.LST
+*.DSN~
+*.pdsbak
+*.res
+*.cfg
+
+# Optional: Ignore compiled outputs or large waveform files
+*.cof
+*.hex
+*.elf
+*.lst
+*.sdf
+*.dmp
+*.tmp
+*.svf
+*.wvd
+*.wav
+*.prjpcb
+*.~*
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# VS Code project files (if you're using it)
+.vscode/
+
+# Git metadata (automatically managed)
+.git/
